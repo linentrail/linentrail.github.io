@@ -428,17 +428,20 @@ ul.multi-column-dropdown h6 {
     float: right;
 }
 .shop a {
-	text-decoration:none;
+	text-decoration: none;
 	padding:12px 20px;
 	border:1px solid #000;
 	color:#000;
 	font-size:18px;
 	letter-spacing:2px;
+    display: inline-block;
+    float: left;
+    
+    
 }
 .shop a:hover {
 	color:#fff;
-	background-color:#816263;
-	border:1px solid #816263;	
+	background-color:#03336F;	
 }
 /*-- online-strip --*/
 .online-strip {
